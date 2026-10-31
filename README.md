@@ -3,7 +3,7 @@
 
 I help regulated enterprises take AI from notebook to production: **the architecture, the governance, and the Python underneath.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edwardsuresh-0B2545?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardsuresh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sureshedward-0B2545?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sureshedward)
 ![TOGAF](https://img.shields.io/badge/TOGAF-Certified-C9A227?style=flat-square)
 ![Financial Services](https://img.shields.io/badge/25%2B_yrs-Financial_Services-1D4E89?style=flat-square)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0B2545?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -38,6 +38,16 @@ I help regulated enterprises take AI from notebook to production: **the architec
 
 ---
 
+### 🧭 Also on GitHub
+
+**[FS-AI Framework](https://github.com/EdwardSuresh/fs-ai-framework)** — AI architecture principles and a reference architecture for capital markets, wealth management and insurance. 14 principles in TOGAF form, traced to architecture components and to the evidence an Architecture Review Board should demand, with a crosswalk to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, and a gallery of named AI anti-patterns.
+
+[**▶ Read the framework**](https://edwardsuresh.github.io/fs-ai-framework/) · [**Browse the repo**](https://github.com/EdwardSuresh/fs-ai-framework)
+
+> The Playbook shows how the models work. The Framework shows how to govern them in production.
+
+---
+
 ### 💼 Experience
 
 25+ years architecting systems across **banking, capital markets, insurance and energy**, including BNY Mellon, Citigroup, Wells Fargo, Fannie Mae, AXA Equitable, MetLife, AIG and Magellan Midstream Partners. Today I work as an independent consultant focused on AI architecture and governance.
@@ -52,4 +62,4 @@ I help regulated enterprises take AI from notebook to production: **the architec
 
 ### 📫 Let's talk
 
-Open to conversations about **AI architecture and governance leadership**. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/edwardsuresh).
+Open to conversations about **AI architecture and governance leadership**. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/sureshedward).
