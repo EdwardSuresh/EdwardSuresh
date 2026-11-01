@@ -28,9 +28,9 @@ I help regulated enterprises take AI from notebook to production: **the architec
 
 | | |
 |---|---|
-| 🟢 **Easy** | the intuition, by hand, on a tiny dataset |
-| 🟡 **Medium** | realistic synthetic data with the standard library |
-| 🔴 **Hard** | production concerns: tuning, explainability, model risk, governance |
+| 🟢 **Concept** | the intuition, by hand, on a tiny dataset |
+| 🟡 **Build** | realistic synthetic data with the standard library |
+| 🔴 **Production** | production concerns: tuning, explainability, model risk, governance |
 
 90 tested Python labs · 30 Colab notebooks · architecture and sequence diagrams for every algorithm · code annotated with 🐍 Python and 🧠 ML lessons
 
